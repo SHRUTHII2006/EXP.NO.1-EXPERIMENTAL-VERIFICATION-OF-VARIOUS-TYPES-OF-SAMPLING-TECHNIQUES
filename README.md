@@ -1,7 +1,7 @@
 # EXP.NO.1-EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
  
 
-1.Experimental Verification Of Signal Sampling Using Various Types Such as 
+1.Experimental Verification Of Signal Sampling Using Various Types Such as
     i) Natural Sampling
     ii) Flat Top Sampling
 
